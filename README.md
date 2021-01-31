@@ -1,3 +1,5 @@
+<img src="./notlikeduck.png" align="right">
+
 # mizlan
 
 ## my bucket list
