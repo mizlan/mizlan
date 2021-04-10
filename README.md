@@ -10,4 +10,4 @@
 | `abduco` | 366s | 04:51PM 04/09 |
 | `aerc` | 39s | 02:11PM 04/09 |
 
-source code [here](https://git.sr.ht/~mizlan/morgan)
+hacked together [here](https://git.sr.ht/~mizlan/morgan)
