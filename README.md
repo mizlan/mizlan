@@ -15,4 +15,4 @@
 | `vim` | 14s | 08:03PM 04/09 |
 | `curl` | 71s | 07:24PM 04/09 |
 
-hacked together [here](https://git.sr.ht/~mizlan/morgan)
+hacked together [here](https://github.com/mizlan/morgan)
