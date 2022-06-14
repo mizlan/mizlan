@@ -1,5 +1,5 @@
 <img src="./notlikeduck.png" align="right">
 
-[pgp](https://github.com/mizlan.gpg)
+[pgp \(or is it gpg?\)](https://github.com/mizlan.gpg)
 
 GitHub 👎
