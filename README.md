@@ -2,5 +2,5 @@
 
 hello there
 
-learning: koka, ocaml, haskell
-tools: neovim, kitty
+* learning: koka, ocaml, haskell
+* tools: neovim, kitty
