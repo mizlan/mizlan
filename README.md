@@ -3,3 +3,4 @@
 hello there
 
 learning: koka, ocaml, haskell
+tools: neovim, kitty
