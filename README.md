@@ -1,6 +1,6 @@
 <img src="./notlikeduck.png" align="right">
 
-hello there
+hello there :)
 
 * actively learning: koka, ocaml, haskell
 * tools i love: neovim, kitty
