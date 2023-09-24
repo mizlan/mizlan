@@ -1,4 +1,4 @@
-Python · Haskell · TypeScript · OCaml · SQL
+Python · Haskell · TypeScript · OCaml · PostgreSQL
 
 Neovim · Kitty · Yabai · Emacs
 
